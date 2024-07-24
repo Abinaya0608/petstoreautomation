@@ -30,3 +30,11 @@
 [INFO ] 2024-07-24 12:23:04.093 [main] UserTests - ***********user is updated*********
 [INFO ] 2024-07-24 12:23:05.436 [main] UserTests - ***********Before deleting the user*********
 [INFO ] 2024-07-24 12:23:06.764 [main] UserTests - ***********user is deleted*********
+[INFO ] 2024-07-24 16:35:13.997 [main] UserTests - ***********Before creating user****
+[INFO ] 2024-07-24 16:35:19.219 [main] UserTests - ***********user is created*********
+[INFO ] 2024-07-24 16:35:19.252 [main] UserTests - ***********Before reading user****
+[INFO ] 2024-07-24 16:35:20.647 [main] UserTests - ***********user info is displayed*********
+[INFO ] 2024-07-24 16:35:20.661 [main] UserTests - ***********Before updating the user*********
+[INFO ] 2024-07-24 16:35:22.038 [main] UserTests - ***********user is updated*********
+[INFO ] 2024-07-24 16:35:23.404 [main] UserTests - ***********Before deleting the user*********
+[INFO ] 2024-07-24 16:35:24.740 [main] UserTests - ***********user is deleted*********
