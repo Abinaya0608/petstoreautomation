@@ -1,24 +1,32 @@
-[INFO ] 2024-07-23 12:11:38.596 [main] UserTests - ***********Before creating user****
-[INFO ] 2024-07-23 12:11:44.221 [main] UserTests - ***********user is created*********
-[INFO ] 2024-07-23 12:11:44.270 [main] UserTests - ***********Before reading user****
-[INFO ] 2024-07-23 12:11:45.682 [main] UserTests - ***********user info is displayed*********
-[INFO ] 2024-07-23 12:11:45.718 [main] UserTests - ***********Before updating the user*********
-[INFO ] 2024-07-23 12:11:47.051 [main] UserTests - ***********user is updated*********
-[INFO ] 2024-07-23 12:11:48.366 [main] UserTests - ***********Before deleting the user*********
-[INFO ] 2024-07-23 12:11:49.711 [main] UserTests - ***********user is deleted*********
-[INFO ] 2024-07-23 15:20:49.168 [main] UserTests - ***********Before creating user****
-[INFO ] 2024-07-23 15:20:54.435 [main] UserTests - ***********user is created*********
-[INFO ] 2024-07-23 15:20:54.465 [main] UserTests - ***********Before reading user****
-[INFO ] 2024-07-23 15:20:55.851 [main] UserTests - ***********user info is displayed*********
-[INFO ] 2024-07-23 15:20:55.857 [main] UserTests - ***********Before updating the user*********
-[INFO ] 2024-07-23 15:20:57.180 [main] UserTests - ***********user is updated*********
-[INFO ] 2024-07-23 15:20:58.512 [main] UserTests - ***********Before deleting the user*********
-[INFO ] 2024-07-23 15:20:59.842 [main] UserTests - ***********user is deleted*********
-[INFO ] 2024-07-23 15:44:21.150 [main] UserTests - ***********Before creating user****
-[INFO ] 2024-07-23 15:44:27.566 [main] UserTests - ***********user is created*********
-[INFO ] 2024-07-23 15:44:27.597 [main] UserTests - ***********Before reading user****
-[INFO ] 2024-07-23 15:44:29.010 [main] UserTests - ***********user info is displayed*********
-[INFO ] 2024-07-23 15:44:29.027 [main] UserTests - ***********Before updating the user*********
-[INFO ] 2024-07-23 15:44:30.401 [main] UserTests - ***********user is updated*********
-[INFO ] 2024-07-23 15:44:31.750 [main] UserTests - ***********Before deleting the user*********
-[INFO ] 2024-07-23 15:44:33.103 [main] UserTests - ***********user is deleted*********
+[INFO ] 2024-07-24 11:30:49.047 [main] UserTests - ***********Before creating user****
+[INFO ] 2024-07-24 11:30:55.835 [main] UserTests - ***********user is created*********
+[INFO ] 2024-07-24 11:30:55.850 [main] UserTests - ***********Before reading user****
+[INFO ] 2024-07-24 11:30:57.407 [main] UserTests - ***********user info is displayed*********
+[INFO ] 2024-07-24 11:30:57.422 [main] UserTests - ***********Before updating the user*********
+[INFO ] 2024-07-24 11:30:58.807 [main] UserTests - ***********user is updated*********
+[INFO ] 2024-07-24 11:31:00.196 [main] UserTests - ***********Before deleting the user*********
+[INFO ] 2024-07-24 11:31:01.618 [main] UserTests - ***********user is deleted*********
+[INFO ] 2024-07-24 12:02:39.138 [main] UserTests - ***********Before creating user****
+[INFO ] 2024-07-24 12:02:44.062 [main] UserTests - ***********user is created*********
+[INFO ] 2024-07-24 12:02:44.090 [main] UserTests - ***********Before reading user****
+[INFO ] 2024-07-24 12:02:45.488 [main] UserTests - ***********user info is displayed*********
+[INFO ] 2024-07-24 12:02:45.503 [main] UserTests - ***********Before updating the user*********
+[INFO ] 2024-07-24 12:02:46.861 [main] UserTests - ***********user is updated*********
+[INFO ] 2024-07-24 12:02:48.211 [main] UserTests - ***********Before deleting the user*********
+[INFO ] 2024-07-24 12:02:49.702 [main] UserTests - ***********user is deleted*********
+[INFO ] 2024-07-24 12:06:32.651 [main] UserTests - ***********Before creating user****
+[INFO ] 2024-07-24 12:06:39.457 [main] UserTests - ***********user is created*********
+[INFO ] 2024-07-24 12:06:39.491 [main] UserTests - ***********Before reading user****
+[INFO ] 2024-07-24 12:06:41.212 [main] UserTests - ***********user info is displayed*********
+[INFO ] 2024-07-24 12:06:41.225 [main] UserTests - ***********Before updating the user*********
+[INFO ] 2024-07-24 12:06:42.536 [main] UserTests - ***********user is updated*********
+[INFO ] 2024-07-24 12:06:43.883 [main] UserTests - ***********Before deleting the user*********
+[INFO ] 2024-07-24 12:06:45.178 [main] UserTests - ***********user is deleted*********
+[INFO ] 2024-07-24 12:22:56.275 [main] UserTests - ***********Before creating user****
+[INFO ] 2024-07-24 12:23:01.308 [main] UserTests - ***********user is created*********
+[INFO ] 2024-07-24 12:23:01.337 [main] UserTests - ***********Before reading user****
+[INFO ] 2024-07-24 12:23:02.741 [main] UserTests - ***********user info is displayed*********
+[INFO ] 2024-07-24 12:23:02.753 [main] UserTests - ***********Before updating the user*********
+[INFO ] 2024-07-24 12:23:04.093 [main] UserTests - ***********user is updated*********
+[INFO ] 2024-07-24 12:23:05.436 [main] UserTests - ***********Before deleting the user*********
+[INFO ] 2024-07-24 12:23:06.764 [main] UserTests - ***********user is deleted*********

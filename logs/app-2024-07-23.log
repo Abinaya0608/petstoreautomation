@@ -1,0 +1,24 @@
+[INFO ] 2024-07-23 12:11:38.596 [main] UserTests - ***********Before creating user****
+[INFO ] 2024-07-23 12:11:44.221 [main] UserTests - ***********user is created*********
+[INFO ] 2024-07-23 12:11:44.270 [main] UserTests - ***********Before reading user****
+[INFO ] 2024-07-23 12:11:45.682 [main] UserTests - ***********user info is displayed*********
+[INFO ] 2024-07-23 12:11:45.718 [main] UserTests - ***********Before updating the user*********
+[INFO ] 2024-07-23 12:11:47.051 [main] UserTests - ***********user is updated*********
+[INFO ] 2024-07-23 12:11:48.366 [main] UserTests - ***********Before deleting the user*********
+[INFO ] 2024-07-23 12:11:49.711 [main] UserTests - ***********user is deleted*********
+[INFO ] 2024-07-23 15:20:49.168 [main] UserTests - ***********Before creating user****
+[INFO ] 2024-07-23 15:20:54.435 [main] UserTests - ***********user is created*********
+[INFO ] 2024-07-23 15:20:54.465 [main] UserTests - ***********Before reading user****
+[INFO ] 2024-07-23 15:20:55.851 [main] UserTests - ***********user info is displayed*********
+[INFO ] 2024-07-23 15:20:55.857 [main] UserTests - ***********Before updating the user*********
+[INFO ] 2024-07-23 15:20:57.180 [main] UserTests - ***********user is updated*********
+[INFO ] 2024-07-23 15:20:58.512 [main] UserTests - ***********Before deleting the user*********
+[INFO ] 2024-07-23 15:20:59.842 [main] UserTests - ***********user is deleted*********
+[INFO ] 2024-07-23 15:44:21.150 [main] UserTests - ***********Before creating user****
+[INFO ] 2024-07-23 15:44:27.566 [main] UserTests - ***********user is created*********
+[INFO ] 2024-07-23 15:44:27.597 [main] UserTests - ***********Before reading user****
+[INFO ] 2024-07-23 15:44:29.010 [main] UserTests - ***********user info is displayed*********
+[INFO ] 2024-07-23 15:44:29.027 [main] UserTests - ***********Before updating the user*********
+[INFO ] 2024-07-23 15:44:30.401 [main] UserTests - ***********user is updated*********
+[INFO ] 2024-07-23 15:44:31.750 [main] UserTests - ***********Before deleting the user*********
+[INFO ] 2024-07-23 15:44:33.103 [main] UserTests - ***********user is deleted*********
